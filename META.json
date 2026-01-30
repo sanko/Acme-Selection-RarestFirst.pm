@@ -38,7 +38,7 @@
       "configure" : {
          "requires" : {
             "Module::Build::Tiny" : "0",
-            "perl" : "v5.40.0"
+            "perl" : "v5.42.0"
          }
       },
       "runtime" : {
@@ -47,7 +47,7 @@
          },
          "requires" : {
             "List::Util" : "0",
-            "perl" : "v5.40.0"
+            "perl" : "v5.42.0"
          }
       },
       "test" : {
