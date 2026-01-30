@@ -42,6 +42,9 @@
          }
       },
       "runtime" : {
+         "recommends" : {
+            "Acme::Bitfield" : "0"
+         },
          "requires" : {
             "List::Util" : "0",
             "perl" : "v5.40.0"
@@ -49,6 +52,7 @@
       },
       "test" : {
          "requires" : {
+            "Acme::Bitfield" : "0",
             "Test2::V0" : "0"
          }
       }

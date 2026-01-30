@@ -43,6 +43,6 @@ class Acme::Selection::RarestFirst v1.0.0 {
     method get_availability ($index) {
         return $availability[$index] // 0;
     }
-    }
-    #
-    1;
+};
+#
+1;

@@ -7,10 +7,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [v1.0.0] - 2026-01-29
-
 ### Changed
 - It actually exists.
-
-[Unreleased]: https://github.com/sanko/Net-uTP.pm/compare/v1.0.0...HEAD
-[v1.0.0]: https://github.com/sanko/Net-uTP.pm/releases/tag/v1.0.0
